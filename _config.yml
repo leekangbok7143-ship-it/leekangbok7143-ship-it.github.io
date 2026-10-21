@@ -1,0 +1,9 @@
+title: "기록의 공간"
+description: "배우고 경험한 것을 천천히 기록하는 블로그"
+lang: ko-KR
+timezone: Asia/Seoul
+theme: minima
+markdown: kramdown
+permalink: "/:categories/:year/:month/:day/:title/"
+header_pages:
+  - about.md
